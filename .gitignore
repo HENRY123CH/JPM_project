@@ -1,0 +1,4 @@
+census-bureau.data
+__pycache__/
+*.pyc
+.venv/
