@@ -1,11 +1,9 @@
-# JPM Take‑Home Project
+# Banking Classifier
 
 ## Overview
 This project delivers:
 1) A classifier to predict whether income is > $50K  
 2) A marketing segmentation model based on demographics and income potential
-
-The full workflow is implemented in `JPM_project.ipynb`.
 
 ---
 
@@ -14,8 +12,6 @@ Make sure these files are in the same project folder:
 
 - `census-bureau.data`
 - `census-bureau.columns`
-- `JPM_project.ipynb`
-
 ---
 
 ## Environment Setup
